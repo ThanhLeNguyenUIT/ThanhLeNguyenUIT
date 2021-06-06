@@ -13,12 +13,15 @@ Here are some ideas to get you started:
 
 ## 📬 Get in touch
 
-- Facebook: [https://www.facebook.com/thanh.lee.bmt/][1]
-- Instagram: [https://www.instagram.com/tn.thanh_/][2]
-- Zalo: [0794560642][3]
-- Email: [nlthanh47@gmail.com][4]
+- Facebook: [facebook/thanh.lee.bmt][1]
+- Instagram: [instagram/tn.thanh_][2]
+- Zalo: [0794560642]
+- Email: [nlthanh47@gmail.com]
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+You can support me and buy me a coffee, if you want. 🙏🏻
 
+[1]:
+  https://www.facebook.com/thanh.lee.bmt/
+[2]: https://www.instagram.com/tn.thanh_/
