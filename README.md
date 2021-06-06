@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 - Facebook: [facebook/thanh.lee.bmt][1]
 - Instagram: [instagram/tn.thanh_][2]
-- Zalo: [0794560642]
-- Email: [nlthanh47@gmail.com]
+- Zalo: 0794560642
+- Email: nlthanh47@gmail.com
 
 ## 🤜🏻🤛🏻 Support Me
 
